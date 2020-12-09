@@ -1,4 +1,4 @@
-### Hi there I`m DoZeroJeong👋
+### Hi I`m DoZeroJeong👋
 I`m Doyoung Jeong who is interested in Back-End Developer from South Korea   
    
 if you want to contact me, please leave me a message!
