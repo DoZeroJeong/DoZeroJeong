@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I`m DoZeroJeong👋
+I`m Doyoung Jeong who is interested in Back-End Developer from South Korea
+if you want to contact me, please leave me a message!
 
 <!--
 **DoZeroJeong/DoZeroJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
