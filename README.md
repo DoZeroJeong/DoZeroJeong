@@ -1,5 +1,5 @@
-### Hi I`m DoZeroJeong👋
-I`m Doyoung Jeong who is interested in Back-End Developer from South Korea   
+## Hi I`m DoZeroJeong👋
+I`m Doyoung Jeong who is interested in Back-End Developer from South Korea 🇰🇷
    
 if you want to contact me, please leave me a message!
 
@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ✨Languages✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoZeroJeong&layout=compact)
-
+## ✨DoZero Stats✨
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoZeroJeong&count_private=true&show_icons=true&theme=highcontrast)
 
 
